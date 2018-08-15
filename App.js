@@ -9,7 +9,7 @@ import Saved from './screens/Saved';
 import Inbox from './screens/Inbox';
 import Trips from './screens/Trips';
 import Profile from './screens/Profile';
-import Home from './screens/Home';
+// import Home from './screens/Home';
 
 export default createBottomTabNavigator(
   {
